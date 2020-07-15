@@ -1,0 +1,14 @@
+{
+  "name": "kyadondo-website",
+  "version": "1.0.0",
+  "description": "Responsive website for kyadondo Rugby club",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "CodeTym",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
