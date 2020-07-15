@@ -6,7 +6,7 @@
   "homepage": "https://Codetym.github.io/kyadondorugbyclub",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-page -d dist"
   },
   "author": "CodeTym",
   "license": "MIT",
